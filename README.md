@@ -83,17 +83,17 @@ pnpm dev
 
 ## 📦 Project Structure
 
-\`\`\`
+```bash
 smartbiz360-prototype/
 ├── app/                  # Next.js app directory
-├── components/          # React components
-│   ├── ui/             # UI component library
-│   └── ...             # Feature components
-├── hooks/              # Custom React hooks
-├── lib/                # Utility functions
-├── public/             # Static assets
-└── styles/             # Global styles
-\`\`\`
+├── components/           # React components
+│   ├── ui/               # UI component library
+│   └── ...               # Feature components
+├── hooks/                # Custom React hooks
+├── lib/                  # Utility functions
+├── public/               # Static assets
+└── styles/               # Global styles
+
 
 ## 🔧 Configuration
 
