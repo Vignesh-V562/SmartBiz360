@@ -93,7 +93,7 @@ smartbiz360-prototype/
 ├── lib/                  # Utility functions
 ├── public/               # Static assets
 └── styles/               # Global styles
-
+```
 
 ## 🔧 Configuration
 
