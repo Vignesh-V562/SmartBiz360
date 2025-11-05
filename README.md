@@ -35,7 +35,7 @@ A modern, full-stack business management solution built with Next.js 15, React 1
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/Saravanan7272/smartbiz360-prototype.git
+git clone https://github.com/Vignesh-V562/SmartBiz360.git
 cd smartbiz360-prototype
 \`\`\`
 
